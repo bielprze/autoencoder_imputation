@@ -68,9 +68,6 @@ MAX_MASK_SAMPLING_ATTEMPTS = 200
 UNDIRECTED_GRAPH = True
 ADD_SELF_LOOPS_IN_GCN = True
 
-DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
-
-
 # =====================
 # REPRODUCIBILITY
 # =====================
