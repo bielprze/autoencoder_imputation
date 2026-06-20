@@ -29,7 +29,7 @@ TEST_MASK_MAP = SCENARIO_DIR / "test" / "mask_map.csv"
 
 GAP_DISTRIBUTION = SCENARIO_DIR / "gap_distribution_used.csv"
 
-EDGES_FILE = "edges_filtered.csv"
+EDGES_FILE = "edges.csv"
 EDGE_SOURCE_COL = "sensor_id"
 EDGE_TARGET_COL = "neighbor_id"
 
