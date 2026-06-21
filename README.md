@@ -553,6 +553,13 @@ Local analysis showed that the graph model improved 59 out of 109 sensor-level o
 
 ## Installation
 
+### Python version
+
+This project was developed and tested with:
+
+```text
+Python 3.13
+
 A virtual environment is recommended.
 
 ```bash
